@@ -6,33 +6,34 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Firefly",
+	title: "修丁日记",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "轻舟已过万重山",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://111612.xyz",
 
 	// 站点描述
 	description:
-		"Firefly 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。",
+		"修丁日记是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客内容展示，专为个人生活点滴记录、读书感悟、日常随笔、个人兴趣分享。该博客融合了现代 Web 技术栈，内容形式以图文为主。网站不提供对外服务、不设置用户互动功能、不涉及前置审批行业，无任何盈利及商业行为，承诺所有内容符合国家网络管理相关规定，是专业且美观的个人博客网站。",
 
 	// 站点关键词
 	keywords: [
-		"Firefly",
+		"修丁日记",
+		"dzbxu",
 		"Fuwari",
 		"Astro",
-		"ACGN",
+		"日常生活",
 		"博客",
-		"技术博客",
+		"个人博客",
 		"静态博客",
 	],
 
 	// 主题色
 	themeColor: {
 		// 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
-		hue: 165,
+		hue: 200,
 		// 默认模式："light" 亮色，"dark" 暗色，"system" 跟随系统
 		defaultMode: "system",
 	},
@@ -45,9 +46,9 @@ export const siteConfig: SiteConfig = {
 	// 网站Card样式配置
 	card: {
 		// 是否开启卡片边框和阴影，开启后让网站更有立体感
-		border: false,
+		border: true,
 		// 是否让卡片风格跟随主题色相
-		followTheme: false,
+		followTheme: true,
 	},
 
 	// Favicon 配置
