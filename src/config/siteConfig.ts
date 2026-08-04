@@ -21,7 +21,6 @@ export const siteConfig: SiteConfig = {
 	// 站点关键词
 	keywords: [
 		"修丁日记",
-		"dzbxu",
 		"Fuwari",
 		"Astro",
 		"日常生活",
