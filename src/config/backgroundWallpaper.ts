@@ -59,17 +59,17 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否启用主页横幅文字
 			enable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "Good luck Xiu!",
 			// 主页横幅主标题字体大小
 			titleSize: "4.5rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"风可以吹起一张白纸，却无法吹走一只蝴蝶，因为生命的力量在于不顺从。",
+				"游目八荒，河清海晏。我们生于盛世，长于盛世，未来的盛世更将由我们谱写。",
+				"为有牺牲多壮志，敢教日月换新天‌。喜看稻菽千重浪，遍地英雄下夕烟。",
+				"昙花一现，却等待了整个白昼；蝉鸣一夏，却蛰伏了好几个四季。",
+				"失之东隅，收之桑榆；回头看，轻舟已过万重山；向前看，前路漫漫亦灿灿。",
+				"我生来就是高山而非溪流，我欲于群峰之巅，俯视平庸的丘壑。",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
