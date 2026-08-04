@@ -192,7 +192,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			specificConfig: {
 				ad: {
 					image: {
-						src: "assets/images/ad/ad1.avif",
+						src: "/assets/images/ad/ad1.avif",
 						alt: "广告横幅",
 						link: "https://www.aliyun.com/minisite/goods?userCode=zftfjd2k",
 						external: true,
